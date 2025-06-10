@@ -7,7 +7,7 @@ style.css file
 web image
 andn output screen shot
 
-2ND DAILY QUOTE GENERATOR IN CHROME WEB APP
+2ND DAILY QUOTE GENERATOR IN LIVE SERVER
 motivational quote generator file
 stylee.css file 
 java script file
